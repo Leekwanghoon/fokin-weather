@@ -9,6 +9,8 @@ import { weatherOptions } from './WeatherInfo';
 
 export default function Weather({temp, condition}) {
 
+    condition = "Drizzle";
+
     if( weatherOptions[condition] === undefined ) {
         weatherOptions[condition] = weatherOptions["Clear"];
     }

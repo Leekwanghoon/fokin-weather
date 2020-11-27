@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "My first React Native. Using Weather APi that It helps us to see our Weather and temperature('C). "
+    "description": "My first React Native. Using Weather APi that It helps us to see our Weather and temperature('C). ",
+    "githubUrl": "https://github.com/Leekwanghoon/fokin-weather"
   }
 }
