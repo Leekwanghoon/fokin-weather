@@ -1,3 +1,5 @@
+시연영상 ->  https://www.notion.so/3f6112a4ed19477ba1290c0ad6f57f43
+
 
 주제: 날씨 api를 이용한 React Native만들기
 
